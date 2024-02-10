@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é um relógio digital simples construído com **HTML**, **CSS** e **JavaScript**. Ele exibe a hora atual em formato `horas:minutos:segundos` e atualiza automaticamente a cada segundo.
+Este projeto é um relógio digital simples construído com **HTML**, **CSS** e **JavaScript**. Ele exibe a hora atual em formato `horas:minutos:segundos` e atualiza automaticamente a cada segundo \o/.
 
 ## Tecnologias Utilizadas
 
@@ -12,7 +12,7 @@ Este projeto é um relógio digital simples construído com **HTML**, **CSS** e 
 
 ## Instalação e Uso
 
-1. Faça o download do projeto ou clone o repositório do [GitHub](link-do-repositorio).
+1. Faça o download do projeto ou clone o repositório do [GitHub](https://github.com/DevAndreLuis/relogio-digital-online.git).
 2. Abra o arquivo `index.html` no seu navegador.
 3. O relógio digital será exibido automaticamente.
 
@@ -27,7 +27,7 @@ Você pode personalizar a aparência do relógio editando o arquivo `style.css`.
 
 ## Contribuição
 
-Se você deseja contribuir com esse projeto, sinta-se à vontade para enviar um pull request no [GitHub](link-do-repositorio).
+Se você deseja contribuir com esse projeto, sinta-se à vontade para enviar um pull request no [GitHub](https://github.com/DevAndreLuis/relogio-digital-online/pulls).
 
 ## Autor
 
@@ -35,11 +35,12 @@ Se você deseja contribuir com esse projeto, sinta-se à vontade para enviar um 
 
 ## Link do Projeto
 
-[Link para o repositório do projeto no GitHub](link-do-repositorio)
+[Link para o repositório do projeto no GitHub](https://github.com/DevAndreLuis/relogio-digital-online)
+[Linkedin](https://www.linkedin.com/in/andr%C3%A9-luis-3073aa2ab/)
 
 ## Imagens
 
-![Imagem do relógio digital (opcional)](link-da-imagem)
+![Imagem do relógio digital](./assets/printsDoProjeto/Inicial.jpg)
 
 ## Código
 
@@ -49,4 +50,4 @@ Espero que goste do projeto!
 
 ---
 
-*Nota: Lembre-se de substituir os espaços reservados como `link-do-repositorio` e `link-da-imagem` pelos links apropriados.*
+
